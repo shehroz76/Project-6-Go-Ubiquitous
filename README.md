@@ -1,8 +1,5 @@
-### An Android Wear Watchface integrating project Sunshine
+# Project 6: Go Ubiquitous
 
-- Works on both square and round faces
-- Displays high and low temperatures of your current location using the [Sunshine app](https://github.com/udacity/Sunshine)
+Udacity - Android Developer Nanodegree - Projects 6: Go Ubiquitous
 
-
-![FAB](https://github.com/mmazzarolo/go-ubiquitous/blob/master/extra/image1.png "Optional Title")
-![FAB](https://github.com/mmazzarolo/go-ubiquitous/blob/master/extra/image2.png "Optional Title")
+Android Wear is an exciting way to integrate your app more directly into users’ lives. As a new developer, it will be important for to understand how to perform this integration. This project gives an opportunity to design a companion app for Sunshine, tying it to a watch face in order to enrich the experience.
